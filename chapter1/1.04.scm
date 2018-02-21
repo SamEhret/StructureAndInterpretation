@@ -4,3 +4,4 @@ Desribe the behavior of the following:
     ((if (> b 0) + -) a b))
 
 a + |b|
+a plus the absolute value of b
